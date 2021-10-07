@@ -1,0 +1,53 @@
+.accright{
+    width: 30%;
+}
+.accleft{
+    width: 70%;
+
+}
+.accle{
+    margin-left: 10%
+}
+.acc{display: flex;}
+.imgpc{
+    width: 50px;
+    height: 50px;
+    border-radius:15px
+}
+.proimg{
+    font-size:30px;
+    margin-left:10px;
+}
+.update{
+    width: 100%;
+}
+.iput{
+    width: 80%;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius:10px;
+    border: none;
+    border-bottom: 2px solid rgb(48, 47, 47);
+}
+.detelee{
+    position: absolute;
+    top: 20%;
+    right: 30%;
+    color: red;
+    border: 1px solid rgb(247, 2, 2);
+    padding: 10px 10px 10px 10px;
+    border-radius:10px;
+}
+.btnup{
+    width: 100px;
+    height: 50px;
+    border:none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.btnup:hover{
+    background-color:rgb(70, 219, 25);
+}

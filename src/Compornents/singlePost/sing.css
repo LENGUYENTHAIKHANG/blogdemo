@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+.rightt{
+    width: 30%;
+    margin-left: auto;
+    
+}
+.singlepage{
+    display: flex;
+    margin-top: 30px;
+    
+}
+.leftt{
+    width: 70%;
+    
+    margin-left:10px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.bgi{
+    width: 70%;
+    border-radius: 10px;
+}
+.noidung{
+    width:70%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.tacgia,.tgian{
+    margin-left:50%!important;
+    color:rgba(190, 190, 161, 0.616)
+}
+.imgphu{
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.names{
+    position:absolute;
+    top :26%;
+    margin-left: 25%;
+    margin-right: 70%;
+    color: rgb(2, 4, 102);
+    font-size:50px;
+    border: 2px solid #fff;
+    padding: 10px 10px 10px 10px;
+    width: 20%;
+    
+}

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&display=swap');
+.titlemini{
+    font-size:30px;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-weight: bold;
+   
+}
+.titles{
+    font-size:150px;
+    font-family: 'Ephesis', cursive;  
+    font-weight: bold;
+    color: rgb(241, 187, 121);
+}
+.title
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;   
+}
+.bg{
+    width: 100%;
+    margin-top:4%;
+    height: 50% !important;
+}
+.header{
+    margin-top:60px
+}

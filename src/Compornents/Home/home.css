@@ -1,0 +1,13 @@
+.homes{
+    display: flex;
+    width: 100%;
+    
+    
+}
+.wpost{
+    width: 70% !important;
+    
+}
+.wslide{
+    width: 30%;
+}
