@@ -25,9 +25,8 @@ function App() {
         <Route exact path="/" component={Page} >
           {user ?<Page/>:<Login/>}
         </Route>
-        <Route exact path="/sp/:id" component={SinglePost} >
-        {user ?<SinglePost/>:<Login/>}
-        </Route>
+        <Route exact path="/sp/:id" component={SinglePost}/>
+        
         <Route exact path="/write" component={Write} >
         {user ?<Write/>:<Login/>}
         </Route>
