@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Topbar from './Compornents/Topbar/Topbar';
-import Header from './Compornents/Header/Header';
+
 
 
 import Page from './Compornents/Page';
